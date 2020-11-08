@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Alltestcase" parallel="classes" thread-count="5">
+<test name="Alltest">
+    <classes>
+        <!--<class name="DoubleClickDemo"></class>
+        <class name="DropDownMenuDemo"></class>
+        <class name="DualWindowDemo"></class>
+        <class name="FromToDemo"></class>
+        <class name="LogInDemo"></class>
+        <class name="RadioButtonDemo"></class>
+        <class name="CheckBoxDemo"></class>
+        <class name="RightClickDemo"></class>
+        <class name="SelectCountry"></class>-->
+        <class name="AfterDoubleClickPopUpDemo"></class>
+    </classes>
+</test>
+</suite>
