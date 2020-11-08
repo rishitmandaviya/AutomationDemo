@@ -3,6 +3,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
+
+/*
+* Jainik Test
+* */
 public class AfterDoubleClickPopUpDemo extends BaseTest {
     @Test
     public void afterDoubleClickPopUp() throws Exception{
